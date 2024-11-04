@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://adaquoca.github.io/BpN/sitemap_index.txt
+Sitemap: https://adaquoca.github.io/QBl/sitemap_index.txt
+Sitemap: https://adaquoca.github.io/auN/sitemap_index.txt
+Sitemap: https://adaquoca.github.io/shI/sitemap_index.txt
